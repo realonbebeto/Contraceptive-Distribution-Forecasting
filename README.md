@@ -7,7 +7,7 @@
 
 ## Code and Resources Used 
 **Python Version:** 3.8  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, joblib, tensorflow
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, joblib, tensorflow  
 **Paper Inspiration:** https://www.hindawi.com/journals/complexity/2020/6622927/
 ## Data Cleaning and Processing
 After collecting the data, I cleaned and reformated it up so that it was usable for our model. I made the following changes and created the following variables:
